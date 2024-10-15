@@ -17,4 +17,6 @@ tags:
 - [[all filters]] 
 - [[filter more about aoi]]
 - [[2024-10-03目前filters功能]]
-- 
+
+
+[[20241009 AOI問題]]

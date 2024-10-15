@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/實驗室AOI研究/Notes/AOI程式架構.md",
+                "file": "content/實驗室AOI研究/Index of 實驗室AOI研究.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/實驗室AOI研究/Notes/AOI程式架構.md",
+                "file": "content/實驗室AOI研究/Index of 實驗室AOI研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/實驗室AOI研究/Notes/AOI程式架構.md",
+                "file": "content/實驗室AOI研究/Index of 實驗室AOI研究.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/實驗室AOI研究/Notes/AOI程式架構.md"
+                "file": "content/實驗室AOI研究/Index of 實驗室AOI研究.md"
               }
             }
           }
@@ -154,16 +154,16 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "58068067bef0e4c7",
   "lastOpenFiles": [
-    "content/YT Course/二維自動化光學檢測及應用_YT課程/Index of 二維自動化光學檢測及應用_YT線上課程.md",
-    "content/實驗室AOI研究/Notes/AOI程式架構.md",
+    "content/實驗室AOI研究/20241009 AOI問題.md",
     "content/實驗室AOI研究/Index of 實驗室AOI研究.md",
+    "content/實驗室AOI研究/Notes/AOI程式架構.md",
+    "content/YT Course/二維自動化光學檢測及應用_YT課程/Index of 二維自動化光學檢測及應用_YT線上課程.md",
     "content/其他/介紹投影片/自動化光學檢測介紹 PPT.md",
     "templates/Note Template.md",
     "content/實驗室AOI研究/pdf/2024-10-03目前filters功能.pdf",
